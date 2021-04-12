@@ -1,0 +1,16 @@
+PODS:
+  - ALLatexView (0.1.0)
+
+DEPENDENCIES:
+  - ALLatexView (from `../`)
+
+EXTERNAL SOURCES:
+  ALLatexView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ALLatexView: 7efaa1ccb49944fb2459c56aa9278ddef429ebdb
+
+PODFILE CHECKSUM: da7c9fddcf152d4c88736be14b7c15c83ec5153e
+
+COCOAPODS: 1.10.1

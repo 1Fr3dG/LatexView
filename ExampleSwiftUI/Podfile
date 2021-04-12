@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ExampleSwiftUI' do
+  pod 'ALLatexView', :path => '../'
+  
+  
+end

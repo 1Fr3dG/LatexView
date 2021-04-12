@@ -1,0 +1,6 @@
+framework module ALLatexView {
+  umbrella header "ALLatexView-umbrella.h"
+
+  export *
+  module * { export * }
+}

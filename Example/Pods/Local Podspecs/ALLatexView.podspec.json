@@ -1,0 +1,22 @@
+{
+  "name": "ALLatexView",
+  "version": "0.1.0",
+  "summary": "A short description of ALLatexView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Alfred Gao/ALLatexView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alfred Gao": "alfredg@alfredg.org"
+  },
+  "source": {
+    "git": "https://github.com/Alfred Gao/ALLatexView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "ALLatexView/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ALLatexView_Tests' do
+  pod 'ALLatexView', :path => '../'
+  
+  
+end
